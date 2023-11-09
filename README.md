@@ -32,11 +32,16 @@
 
 ## Input:
 
+![image](https://github.com/vijayarajv1704/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121303741/1b8fa501-6e4c-4a02-a4db-eb1beede6301)
+
 ### Output:
+![image](https://github.com/vijayarajv1704/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121303741/97633307-5742-4a87-88be-5fbe407039f8)
+
+![image](https://github.com/vijayarajv1704/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121303741/6555ed8b-c0f8-446c-9faa-911e3f0dea45)
 
 
-### Name:
-### Register Number:
+### Name: Vijayaraj V
+### Register Number:212222230174
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
