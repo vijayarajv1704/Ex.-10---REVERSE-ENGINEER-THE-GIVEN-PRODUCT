@@ -31,13 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![Screenshot (80)](https://github.com/user-attachments/assets/c07a47f6-6cba-4624-a6e6-a2478ddef927)
 
-![image](https://github.com/vijayarajv1704/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121303741/1b8fa501-6e4c-4a02-a4db-eb1beede6301)
-
-### Output:
-![image](https://github.com/vijayarajv1704/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121303741/97633307-5742-4a87-88be-5fbe407039f8)
-
-![image](https://github.com/vijayarajv1704/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121303741/6555ed8b-c0f8-446c-9faa-911e3f0dea45)
+##OUTPUT
+ 
+![rendered model](https://github.com/user-attachments/assets/366de468-2b29-46fe-82a8-5ca1affac28e)
 
 
 ### Name: Vijayaraj V
